@@ -3,6 +3,8 @@ title: Introduction to Composable Connectivity
 nav_order: 1
 ---
 
+## Introduction to Composable Connectivity
+
 # Organizations of the future will be composable
 CIOs are challenged today to drive change for their organizations by shifting to “digital” technologies. Cloud, mobile, and omnichannel experiences, along with the explosion of IoT, all contribute to the shift in digital transformation. Additionally, there is a growing need to process massive amounts of in-line data and provide analytics through artificial intelligence and machine learning, which puts additional pressure on technology teams to provide valuable insights to business teams, as both teams navigate how to most effectively work together in this complex world of data, system integrations and customer touchpoints. As Klaus Schwab, Execute Chairman of the World Economic Forum stated, “In this new world, it is not the big fish which eats the small fish, it’s the fast fish which eats the slow fish.” CIOs are feeling the pressure to accelerate their delivery, decrease their technical debt and improve overall efficiencies. Organizations will drive business agility and innovation with composable building blocks and API-led connectivity.
 
