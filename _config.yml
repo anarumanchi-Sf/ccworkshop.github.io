@@ -1,8 +1,4 @@
-title: ACB Workshop
-description: "Workshop materials, agenda, and resources"
-remote_theme: just-the-docs/just-the-docs
-color_scheme: nil
-logo: /assets/img/logo.png
+title: Composable Connectivity Workshop
 
 # Navigation
 nav_external_links:
@@ -12,8 +8,8 @@ nav_external_links:
 # Aux (top-right) links
 aux_links:
   "View on GitHub":
-    - "https://github.com/your-org/your-repo"
+    - "https://github.com/anarumanchi-sf/ccworkshop.github.io"
 aux_links_new_tab: true
 
 # Footer
-footer_content: "© {year} Your Name or Org"
+footer_content: "© {year} Mulesoft"
