@@ -1,0 +1,19 @@
+title: ACB Workshop
+description: "Workshop materials, agenda, and resources"
+remote_theme: just-the-docs/just-the-docs
+color_scheme: nil
+logo: /assets/img/logo.png
+
+# Navigation
+nav_external_links:
+  - title: Salesforce Workshop Site (original)
+    url: https://sites.google.com/salesforce.com/acbworkshop?usp=sharing
+
+# Aux (top-right) links
+aux_links:
+  "View on GitHub":
+    - "https://github.com/your-org/your-repo"
+aux_links_new_tab: true
+
+# Footer
+footer_content: "© {year} Your Name or Org"
